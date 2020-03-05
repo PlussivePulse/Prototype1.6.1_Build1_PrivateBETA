@@ -1,0 +1,5 @@
+[Core]=
+version=1.0
+ccversion=Control Center Panel V.1.0
+[LocalMemory]=
+[Alarm]=
